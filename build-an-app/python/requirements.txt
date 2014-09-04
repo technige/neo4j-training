@@ -1,8 +1,1 @@
-beautifulsoup4
-bottle
-httpstream
-jsonstream
-lxml
-py2neo
-urimagic
-
+py2neo==1.6.4
