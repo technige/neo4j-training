@@ -1,0 +1,8 @@
+beautifulsoup4
+bottle
+httpstream
+jsonstream
+lxml
+py2neo
+urimagic
+
